@@ -7,7 +7,7 @@ Running a server isn't that hard. But it's made super confusing and people are g
 [[#Joining the Server]]
 [[#Troubleshooting]]
 # Server Setup
-It should be mentioned that only the host (you, Naomi) has to perform these steps. Once you've set up your server, anyone else (*cough cough* freeloaders *cough*) will be able to join super easily (I'll include those steps, too).
+It should be mentioned that only the host (you, Naomi) has to perform these steps. Once you've set up your server, anyone else will be able to join super easily (I'll include those steps, too).
 ## Downloading the Server
 First, go to this website: https://www.minecraft.net/en-us/download/server
 
